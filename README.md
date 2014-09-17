@@ -69,7 +69,7 @@ adb logcat output for aidl java side
 
     07-24 14:05:22.510: E/test(3702): -------------->onTransact, TRANSACTION_doAuth, android.os.Process.myPid()=3702 //diff
 
-#One chart: client <----> proxy <==ipc==> stub <----> service#
+One chart: #client <----> proxy <==ipc==> stub <----> service#
 
 in C: 
 
