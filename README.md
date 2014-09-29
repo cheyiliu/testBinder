@@ -83,3 +83,6 @@ in Java:
     client <----> proxy (bindService, onServiceConnected, asInterface(service), xxService.doxx, mRemote.transact)
 
     stub <----> service(IAuthenticationService.Stub.onTransact  switch(code) case doxx)
+    
+more reading  
+https://github.com/cheyiliu/All-in-One/wiki/android-binder
